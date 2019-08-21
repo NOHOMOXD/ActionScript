@@ -1,1 +1,2 @@
-# ActionScript\n\r учебный тест
+# ActionScript
+учебный тест
